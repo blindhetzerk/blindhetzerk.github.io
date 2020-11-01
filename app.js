@@ -22,8 +22,8 @@ particlesJS('particles-js',
       },
       "image": {
         "src": "hetzerk_logo_old.png",
-        "width": 60%,
-        "height": 60%
+        "width": 30%,
+        "height": 30%
       }
     },
     "opacity": {
